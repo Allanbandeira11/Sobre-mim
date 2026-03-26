@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Profile.png" width="250px" style="border-radius: 125px; border: 5px solid #2563eb;" alt="Allan Profile"/>
+  <img src="https://github.com/Allanbandeira11.png" width="250px" style="border-radius: 125px; border: 5px solid #2563eb;" alt="Allan Profile"/>
 </p>
 
 <h1 align="center">🚀 Allan | Fullstack Developer</h1>
