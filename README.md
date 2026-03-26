@@ -49,26 +49,6 @@ Fundador e desenvolvedor líder de um dos servidores de Roleplay mais resiliente
 
 ---
 
-### 📊 Estatísticas do GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark" alt="Linguagens mais usadas" height="180px">
-</p>
-
----
-
-### 🤝 Conecte-se comigo
-
-<p align="center">
-  <a href="https://linkedin.com/in/SEU_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/SEU_LINK">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
-
-<p align="center">
-  <sub>© 2026 Allan & Antonio. Todos os direitos reservados.</sub>
+  <sub>© 2026 Allan. Todos os direitos reservados.</sub>
 </p>
